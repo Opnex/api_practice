@@ -18,8 +18,6 @@
 # #     return {"message": f"User {user.name} (age {user.age}) created successfully!"}
 
 
-
-
 # from fastapi import FastAPI
 # app = FastAPI()
 
